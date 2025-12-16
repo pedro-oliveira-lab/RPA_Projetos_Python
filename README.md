@@ -17,4 +17,4 @@ Sempre que o Hermes consegue extrair o Link, mas não o Contato, ele preencherá
 O "Não Encontrado" só é retornado se o bloco for lixo digital sem nenhuma informação útil (Nome, Contato ou Link).
 Última Atualização:
 Implementamos a área do administrador e alterar tópicos, ainda sem função e ainda não detectei o erro da senha (o motivo dele).
-TENTEM NÃO ME JULGAR POIS FIZ EM UM DIA E JÁ ESTAVA DOIDO.	
+TENTEM NÃO ME JULGAR POIS FIZ EM TRÊS DIAS E JÁ ESTAVA DOIDO.	
