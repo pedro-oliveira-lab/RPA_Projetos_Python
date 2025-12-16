@@ -1,4 +1,4 @@
-Guia de Estudo do Hermes, O Prospector (Revisão Final)
+Guia de Estudo do Hermes, O Prospector:
 Este é o nosso diário de bordo revisado, explicando a lógica de código e a resiliência do nosso Hermes contra os caprichos do Google.
 Ideia e Propósito do Projeto
 Hermes, o Prospector, é um robô de automação (RPA) que criamos para acelerar a prospecção comercial em São Paulo. Ele busca informações de contato (Endereço, Telefone, Link) de empresas específicas, usando menus interativos para precisão e lógica robusta para garantir a entrega dos dados.
